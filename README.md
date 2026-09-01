@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### Professional Summary
 
-I am Sandeep Vishwakarma, a Computer Engineering student with strong expertise in **Data Analytics, Business Intelligence, Machine Learning, and Software Development**. I have led **15+ Power BI projects** and built ML/NLP-based applications, transforming complex data into actionable insights. Skilled in **Python, SQL, Power BI, data visualization, and full-stack development**, with internship experience in both Data Science and Software Development. I aim to build my career as a **Data Analyst, Data Scientist, or Software Engineer** in a growth-oriented organization.
+I am Sandeep Vishwakarma, a Computer Engineering student with strong expertise in **Data Science, Machine Learning, AI and Software Development**. I have led **15+ Power BI projects** and built ML/NLP-based applications, transforming complex data into actionable insights. Skilled in **Python, SQL, Power BI, data visualization, and full-stack development**, with internship experience in both Data Science and Software Development. I aim to build my career as a **Data Analyst, Data Scientist, or Software Engineer** in a growth-oriented organization.
 
 
 
